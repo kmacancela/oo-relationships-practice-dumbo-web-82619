@@ -17,7 +17,7 @@ be defined from the relationship information given.
 
 #### Easy
 
-- [Airbnb](https://github.com/learn-co-curriculum/oo-relationships-practice/blob/master/exercises/airbnb.md)
+<!-- - [Airbnb](https://github.com/learn-co-curriculum/oo-relationships-practice/blob/master/exercises/airbnb.md) -->
 - [Bakery](https://github.com/learn-co-curriculum/oo-relationships-practice/blob/master/exercises/bakery.md)
 - [Lyft](https://github.com/learn-co-curriculum/oo-relationships-practice/blob/master/exercises/lyft.md)
 
